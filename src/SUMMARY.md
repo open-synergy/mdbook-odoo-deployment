@@ -12,6 +12,7 @@
         - [Pembuatan Folder Log](./instalasi/instalasi-manual/folder-log.md)
         - [Pembuatan File Konfigurasi](./instalasi/instalasi-manual/file-konfigurasi.md)
         - [Pembuatan Daemon](./instalasi/instalasi-manual/daemon.md)
+        - [Menambahkan Repository Modul](./instalasi/instalasi-manual/repository-tambahan.md)
     - [Instalasi Via Ansible](./instalasi/instalasi-ansible.md)
 - [Maintenance Odoo Server](./maintenance.md)
     - [Menjalankan Service Odoo](./maintenance/start-service.md)

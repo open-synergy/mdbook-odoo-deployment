@@ -27,7 +27,7 @@ Catatan:
 
 Sesuaikan ```odoo-daemon-file``` dengan nama file daemon yang Anda tentukan pada [langkah ke 3](#l3)
 
-#### 6. Sesuaikan Ownership Dari File Konfigurasi
+#### 6. Sesuaikan Ownership Dari File Daemon
 
 Jalankan sintaks berikut di terminal
 
@@ -38,3 +38,9 @@ sudo chown root: /etc/init.d/odoo-daemon-file
 Catatan:
 
 Sesuaikan ```odoo-daemon-file``` dengan nama file daemon yang Anda tentukan pada [langkah ke 3](#l3)
+
+#### 7. [Start service odoo](../../maintenance/start-service.md)
+
+#### 8. Test di browser
+
+Buka browser. Buka URL **<ip_server>:8069**. Apabila tidak ada kesalahan halaman database manager odoo akan terbuka.
