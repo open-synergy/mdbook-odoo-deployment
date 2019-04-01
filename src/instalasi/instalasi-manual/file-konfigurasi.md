@@ -4,7 +4,7 @@
 #### 2. Pindah ke direktori ```/etc```
 
 Jalankan sintaks berikut di terminal:
-```
+```bash
 cd /etc
 ```
 #### <a name="l3">3.</a> Download Template File Konfigurasi
