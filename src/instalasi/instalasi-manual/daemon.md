@@ -4,7 +4,7 @@
 #### 2. Pindah ke direktori ```/etc/init.d```
 
 Jalankan sintaks berikut di terminal:
-```
+```bash
 cd /etc/init.d
 ```
 #### <a name="l3">3. Download Template File Daemon</a>
