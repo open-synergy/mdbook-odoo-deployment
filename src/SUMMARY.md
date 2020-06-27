@@ -1,10 +1,4 @@
 # Summary
-- [Prosedur Deployment Menggunakan Doodba](./prosedur-deployment-doodba.md)
-    - [Prasyarat Instalasi](./prasayarat-instalasi.md)
-    - [Docker Compose Inverseproxy](./docker-compose-inverseproxy.md)
-    - [Doodba Template](./doodba-template.md)
-    - [Docker Compose Prod](./docker-compose-prod.md)
-    - [Command Line Tool](./command-line-tool.md)
 - [Prasyarat](./prasayarat.md)
     - [Update dan Upgrade Repository](./prasyarat/update-upgrade.md)
     - [Docker](./prasyarat/docker.md)
@@ -22,3 +16,5 @@
     - [Instalasi](./odoo/instalasi.md)
     - [Menjalankan Aplikasi](./odoo/menjalankan.md)
     - [Menghentikan Aplikasi](./odoo/menghentikan.md)
+    - [Instalasi Addons Odoo](./odoo/instalasi-module.md)
+    - [Update Addons Odoo](./odoo/update-module.md)

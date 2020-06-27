@@ -5,5 +5,5 @@
 Jalankan sintaks berikut:
 
 ````bash
-pipx install precommit
+pipx install pre-commit
 ````
