@@ -20,3 +20,4 @@
     - [Instalasi Addons Odoo](./odoo/instalasi-module.md)
     - [Update Manual Addons Odoo](./odoo/update-module.md)
     - [Update Otomatis Addons Odoo](./odoo/update-otomatis-module.md)
+    - [Melihat Log](./odoo/melihat-log.md)
