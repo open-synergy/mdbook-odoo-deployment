@@ -18,4 +18,5 @@
     - [Menghentikan Aplikasi](./odoo/menghentikan.md)
     - [Update Instalasi](./odoo/update-instalasi.md)
     - [Instalasi Addons Odoo](./odoo/instalasi-module.md)
-    - [Update Addons Odoo](./odoo/update-module.md)
+    - [Update Manual Addons Odoo](./odoo/update-module.md)
+    - [Update Otomatis Addons Odoo](./odoo/update-otomatis-module.md)
