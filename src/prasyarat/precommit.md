@@ -1,4 +1,4 @@
-# pre-commit
+# Instalasi pre-commit
 
 #### 1. Instalasi precommit dengan menggunakan pipx
 

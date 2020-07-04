@@ -1,4 +1,4 @@
-# pip
+# Instalasi pip
 
 #### 1. Install pip untuk python3
 

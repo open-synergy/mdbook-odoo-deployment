@@ -1,4 +1,4 @@
-# invoke
+# Instalasi invoke
 
 #### 1. Instalasi invoke dengan menggunakan pipx
 

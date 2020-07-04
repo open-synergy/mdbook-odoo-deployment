@@ -1,4 +1,4 @@
-# Docker Compose
+# Instalasi Docker Compose
 
 #### 1. Download docker-compose terbaru
 

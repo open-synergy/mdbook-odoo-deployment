@@ -1,4 +1,4 @@
-# pipx
+# Instalasi pipx
 
 #### 1. Instalasi pipx dengan menggunakan pip
 

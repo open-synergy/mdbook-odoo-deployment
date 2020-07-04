@@ -1,4 +1,4 @@
-# copier
+# Instalasi copier
 
 #### 1. Instalasi copier dengan menggunakan pipx
 
