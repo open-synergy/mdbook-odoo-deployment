@@ -20,10 +20,18 @@ sudo docker-compose -f prod.yaml stop odoo
 
 #### 3. Tentukan modul-modul yang akan diinstall
 
-Jalankan sintaks berikut:
+Jalankan sintaks berikut untuk menentukan modul yang diinstall secara manual:
 
 ````bash
 modules=modul-1,modul-2,modul-3,...,modul-n
+````
+
+atau
+
+Jalankan sintaks berikut untuk menginstall modul-modul yang telah didefinisikan dalam file tertentu
+
+````bash
+modules=$(<{path-to-file})
 ````
 
 #### 4. Instalasi modul-modul Odoo
