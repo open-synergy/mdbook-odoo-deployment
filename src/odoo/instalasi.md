@@ -45,7 +45,7 @@ cd {nama-folder-odoo}/odoo/custom/ssh
 Jalankan sintaks berikut
 
 ````bash
-cat {path-to-ssh-private-key} id_rsa
+cat {path-to-ssh-private-key} > id_rsa
 ````
 
 #### 6. Copy isi ssh public key ke dalam file id_rsa
@@ -53,7 +53,7 @@ cat {path-to-ssh-private-key} id_rsa
 Jalankan sintaks berikut
 
 ````bash
-cat {path-to-ssh-public-key} id_rsa.pub
+cat {path-to-ssh-public-key} > id_rsa.pub
 ````
 
 #### 7. Build aplikasi
