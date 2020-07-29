@@ -13,5 +13,5 @@ cd ~
 Jalankan sintaks berikut:
 
 ````bash
-ssh-keygen -t rsa -b 4096 -C "{alamat_email}"
+ssh-keygen -t rsa -b 4096
 ````
