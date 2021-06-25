@@ -14,24 +14,24 @@ Abaikan langkah ini jika Anda sudah berada pada *home directory*
 Jalankan sintaks berikut:
 
 ````bash
-git clone https://github.com/open-synergy/docker-compose-inverseproxy.git {nama-folder-inverse-proxy}
+git clone https://github.com/open-synergy/docker-compose-inverseproxy.git inverseproxy
 ````
 
 Keterangan placeholder:
 
 * *{nama-folder-inverse-proxy}*. Nama folder yang akan dibuat untuk menyimpan kode inverseproxy. Nama folder bebas.
 
-#### <a name="laangkah3">3. Masuk ke direktori {nama-folder-inverse-proxy}</a>
+#### <a name="laangkah3">3. Masuk ke direktori inverseproxy</a>
 
 Jalankan sintaks berikut:
 
 ````bash
-cd {nama-folder-inverse-proxy}
+cd inverseproxy
 ````
 
 Keterangan placeholder:
 
-* *{nama-folder-inverse-proxy}*. Nama folder tempat menyimpan kode inverseproxy. Harus sesuai dengan nama folder pada [langkah ke-2](./instalasi.md#langkah2)
+* *inverseproxy*. Nama folder tempat menyimpan kode inverseproxy. Harus sesuai dengan nama folder pada [langkah ke-2](./instalasi.md#langkah2)
 
 
 #### <a name="langkah4">4. Sesuaikan nilai ACME.Email pada file inverseproxy.yaml</a>
