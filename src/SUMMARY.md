@@ -1,4 +1,6 @@
 # Summary
+- [Prosedur Kerja](./prosedur-kerja.md)
+    - [Persiapan Awal Server](./prosedur-kerja/persiapan-awal-server.md)
 - [Prasyarat](./prasayarat.md)
     - [Update dan Upgrade Repository](./prasyarat/update-upgrade.md)
     - [Instalasi Docker](./prasyarat/docker.md)
