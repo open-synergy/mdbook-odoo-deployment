@@ -3,6 +3,7 @@
 - [Prosedur Kerja](./prosedur-kerja.md)
     - [Persiapan Awal Server](./prosedur-kerja/persiapan-awal-server.md)
     - [Deploy Aplikasi Odoo](./prosedur-kerja/deploy-aplikasi-odoo.md)
+    - [Re-Deploy Aplikasi Odoo](./prosedur-kerja/redeploy-aplikasi-odoo.md)
     - [Update Minor Aplikasi Odoo](./prosedur-kerja/updte-minor-aplikasi-odoo.md)
     - [Update Mayor Aplikasi Odoo](./prosedur-kerja/updte-mayor-aplikasi-odoo.md)
 - [Prasyarat](./prasayarat.md)
