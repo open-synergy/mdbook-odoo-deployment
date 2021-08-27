@@ -1,4 +1,4 @@
-# Instalasi Addons Odoo
+# Build Aplikasi
 
 #### <a name="langkah1">1. Pastikan working directory berada pada home directory [\<\<USER OS\>\>](/placeholder.md#user-os)</a>
 
@@ -16,12 +16,10 @@ Jalankan sintaks berikut:
 cd <<PROJECT DIRECTORY>>
 ````
 
-Abaikan langkah ini jika working directory sudah berada pada [\<\<PROJECT DIRECTORY\>\>](/placeholder.md#project-directory)
-
-#### <a name="langkah3">3. Install Modul</a>
+#### <a name="langkah3">3. Build Aplikasi</a>
 
 Jalankan sintaks berikut:
 
-````bash
-sudo docker-compose -f prod.yaml run --rm odoo addons init -e
+```bash
+sudo docker-compose -f prod.yaml build --no-cache
 ````
