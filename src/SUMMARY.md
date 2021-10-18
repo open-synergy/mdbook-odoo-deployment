@@ -37,3 +37,4 @@
 - [Copier Template](./copier-template.md)
     - [v8.0 Template](./copier-template/v8.md)
     - [Tecnativa Template](./copier-template/tecnativa.md)
+    - [SSI Addons Repo Template](./copier-template/ssi-addons-repo-template.md)
