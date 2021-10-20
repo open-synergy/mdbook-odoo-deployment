@@ -11,4 +11,3 @@ cd ~
 ```bash
 git clone <<URL PROJECT REPO>>
 ````
-#### <a name="langkah2">2. Clone Project Repo</a>
