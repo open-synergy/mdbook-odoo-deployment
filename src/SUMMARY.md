@@ -35,6 +35,7 @@
     - [Update Manual Addons Odoo](./odoo/update-module.md)
     - [Update Otomatis Addons Odoo](./odoo/update-otomatis-module.md)
     - [Melihat Log](./odoo/melihat-log.md)
+    - [Copier Copy](./odoo/copier-copy.md)
 - [Copier Template](./copier-template.md)
     - [v8.0 Template](./copier-template/v8.md)
     - [Tecnativa Template](./copier-template/tecnativa.md)

@@ -24,3 +24,10 @@ Nama user yang digunakan untuk SSH ke server. USER OS tidak boleh menggunakan ro
 ### <a name="domain-produksi">DOMAIN PRODUKSI</a>
 
 Domain yang digunakan untuk mengakses Odoo
+
+### <a name="url-copier-template">URL COPIER TEMPLATE</a>
+
+URL dari template copier yang digunakan:
+
+* gh:Tecnativa/doodba-copier-template
+* gh:open-synergy/doodba-copier-template

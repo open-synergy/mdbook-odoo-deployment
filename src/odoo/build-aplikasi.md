@@ -8,13 +8,17 @@ Jalankan sintaks berikut:
 cd ~
 ````
 
+Abaikan jika sudah berada pada [\<\<USER OS\>\>](/placeholder.md#user-os)
+
 #### <a name="langkah2">2. Masuk ke [\<\<PROJECT DIRECTORY\>\>](/placeholder.md#project-directory)</a>
 
 Jalankan sintaks berikut:
 
 ```bash
 cd <<PROJECT DIRECTORY>>
-````
+```
+
+Abaikan jika sudah berada pada [\<\<PROJECT DIRECTORY\>\>](/placeholder.md#project-directory)
 
 #### <a name="langkah3">3. Build Aplikasi</a>
 
