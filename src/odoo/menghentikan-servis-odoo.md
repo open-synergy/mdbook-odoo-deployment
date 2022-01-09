@@ -18,7 +18,7 @@ cd <<PROJECT DIRECTORY>>
 
 Abaikan langkah ini jika working directory sudah berada pada [\<\<PROJECT DIRECTORY\>\>](/placeholder.md#project-directory)
 
-#### <a name="langkah3">3. Jalankan Servis Odoo</a>
+#### <a name="langkah3">3. Hentikan Servis Odoo</a>
 
 Jalankan sintaks berikut:
 

@@ -24,6 +24,7 @@
     - [Clone Project Repo](./odoo/clone-project-repo.md)
     - [Fetch &amp; Rebase Project Repo](./odoo/fetch-rebase-repo.md)
     - [Build Aplikasi](./odoo/build-aplikasi.md)
+    - [Inisiasi Database](./odoo/inisiasi-database.md)
     - [Restore Odoo](./odoo/restore-odoo.md)
     - [Update Secret](./odoo/update-secret.md)
     - [Menjalankan Aplikasi](./odoo/menjalankan.md)
