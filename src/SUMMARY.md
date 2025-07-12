@@ -2,6 +2,7 @@
 [Placeholder](./placeholder.md)
 - [Prosedur Kerja](./prosedur-kerja.md)
     - [Persiapan Awal Server](./prosedur-kerja/persiapan-awal-server.md)
+    - [Persiapan Awal Deployment](./prosedur-kerja/persiapan-awal-deployment.md)
     - [Deploy Aplikasi Odoo](./prosedur-kerja/deploy-aplikasi-odoo.md)
     - [Install Module Set](./prosedur-kerja/instal-module-set.md)
     - [Re-Deploy Aplikasi Odoo](./prosedur-kerja/redeploy-aplikasi-odoo.md)
